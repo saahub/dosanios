@@ -1,0 +1,43 @@
+﻿<Window x:Name="v_listar_contrato" x:Class="vista.ventanas.v_listado_contratos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vista.ventanas"
+        mc:Ignorable="d"
+        Title="ON BREAK - LISTADO CONTRATOS " Height="450" Width="1117" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/vista;component/imagenes/logo_transparent_background.png" Stretch="Uniform" Opacity="0.35"/>
+        </Grid.Background>
+        <DataGrid x:Name="dtg_contratos_lista" HorizontalAlignment="Left" Height="289" Margin="328,88,0,0" VerticalAlignment="Top" Width="632"
+                  AutoGenerateColumns="False" IsReadOnly="True" ItemsSource="{Binding ColeccionContrato}" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="NUMERO CONTRATO" Binding="{Binding NumeroContrato}"  />
+                <DataGridTextColumn Header="FECHA CREACION" Binding="{Binding CreacionContrato}"  />
+                <DataGridTextColumn Header="FECHA TERMINO" Binding="{Binding TerminoContrato}"  />
+                <DataGridTextColumn Header="INICIO EVENTO" Binding="{Binding FechaHorarioInicio}"  />
+                <DataGridTextColumn Header="TERMINO EVENTO" Binding="{Binding FechaHorarioTermino}"  />
+                <DataGridTextColumn Header="ASISTENTES" Binding="{Binding Asistentes}"  />
+                <DataGridTextColumn Header="PERSONAL ADICIONAL" Binding="{Binding PersonalAdicional}"  />
+                <DataGridTextColumn Header="VIGENCIA" Binding="{Binding Vigencia}"  />
+                <DataGridTextColumn Header="VALOR CONTRATO (UF)" Binding="{Binding ValorContrato}"  />
+                <DataGridTextColumn Header="OBSERVACIONES" Binding="{Binding Observaciones}"  />
+                <DataGridTextColumn Header="RUT CLIENTE" Binding="{Binding Cliente}"  />
+                <DataGridTextColumn Header="TIPO EVENTO" Binding="{Binding Evento}"  />
+            </DataGrid.Columns>
+        </DataGrid>
+        <RadioButton x:Name="rdb_filtro_rcontrato" Content="RUT CLIENTE :" HorizontalAlignment="Left" Margin="14,93,0,0" VerticalAlignment="Top" Checked="Rdb_filtro_rcontrato_Checked"/>
+        <RadioButton x:Name="rdb_filtro_ncontrato" Content="NUMERO CONTRATO :" HorizontalAlignment="Left" Margin="14,149,0,0" VerticalAlignment="Top" Checked="Rdb_filtro_ncontrato_Checked"/>
+        <RadioButton x:Name="rdb_filtro_econtrato" Content="TIPO EVENTO :" HorizontalAlignment="Left" Margin="14,207,0,0" VerticalAlignment="Top" Checked="Rdb_filtro_econtrato_Checked"/>
+        <TextBox x:Name="txt_filtro_rcontrato" HorizontalAlignment="Left" Height="23" Margin="165,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"/>
+        <TextBox x:Name="txt_filtro_ncontrato" HorizontalAlignment="Left" Height="23" Margin="165,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="141"/>
+        <ComboBox x:Name="cmb_filtro_econtrato" HorizontalAlignment="Left" Margin="165,202,0,0" VerticalAlignment="Top" Width="140"/>
+        <Button x:Name="btn_filtro_contrato" Content="BUSCAR" HorizontalAlignment="Left" Margin="194,291,0,0" VerticalAlignment="Top" Width="111" Height="32" Click="Btn_filtro_contrato_Click" Background="#FFF4FF87" BorderBrush="#FF001B95" Foreground="#FF001B95" FontWeight="Bold" FontFamily="Candara" FontSize="14"/>
+        <Button x:Name="btn_hecho_contratos" Content="HECHO" HorizontalAlignment="Left" Margin="860,54,0,0" VerticalAlignment="Top" Width="100" Height="29" FontWeight="Bold" FontFamily="Candara" Foreground="#FF06367A" BorderBrush="#FF06367A" Background="#FFFFF7C7" Click="Btn_hecho_contratos_Click"/>
+        <Button x:Name="btn_limpiar_busContrato" Content="LIMPIAR BÚSQUEDA" HorizontalAlignment="Left" Margin="162,345,0,0" VerticalAlignment="Top" Width="144" Height="32" Background="#FFF4FF87" BorderBrush="#FF001B95" Foreground="#FF001B95" FontWeight="Bold" FontFamily="Candara" FontSize="14" Click="Btn_limpiar_busContrato_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="54,32,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Candara" FontWeight="Bold" Foreground="#FF4769FF" FontSize="16"><Run Text="SELECCIONE EL FILTRO A UTILIZAR"/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="560,31,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Candara" FontWeight="Bold" Foreground="#FF4769FF" FontSize="16" Height="26"><Run Text="REGISTROS ALMACENADOS"/><LineBreak/><Run/></TextBlock>
+
+    </Grid>
+</Window>

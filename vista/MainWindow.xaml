@@ -1,0 +1,41 @@
+﻿<Window x:Name="v_principal" x:Class="vista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:vista"
+        mc:Ignorable="d"
+        Title="ON BREAK" Height="450" Width="800" WindowStartupLocation="CenterScreen" BorderBrush="#FF000629">
+    <Grid Background="White">
+        <Image HorizontalAlignment="Left" Height="258" Margin="90,64,0,0" VerticalAlignment="Top" Width="284" Source="imagenes/logo_transparent_background.png">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="imagenes/logo_white_background.jpg" Stretch="Uniform"/>
+            </Image.OpacityMask>
+        </Image>
+        <Button x:Name="btn_adm_clientes" Content="" HorizontalAlignment="Left" Margin="473,27,0,0" VerticalAlignment="Top" Width="184" Height="65" BorderBrush="#FF22B9FF" BorderThickness="2" TextOptions.TextFormattingMode="Display" Click="Btn_adm_clientes_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="imagenes/Clientes.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btn_list_clientes" Content="" HorizontalAlignment="Left" Margin="473,120,0,0" VerticalAlignment="Top" Width="184" Height="65" BorderBrush="#FF22B9FF" BorderThickness="2" Click="Btn_list_clientes_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="imagenes/ClientSearch.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btn_adm_contratos" Content="" HorizontalAlignment="Left" Margin="472,210,0,0" VerticalAlignment="Top" Width="184" Height="65" BorderBrush="#FF22B9FF" BorderThickness="2" Click="Btn_adm_contratos_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="imagenes/Contratos.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btn_list_contratos" Content="" HorizontalAlignment="Left" Margin="472,304,0,0" VerticalAlignment="Top" Width="184" Height="65" BorderBrush="#FF22B9FF" BorderThickness="2" Click="Btn_list_contratos_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="imagenes/ContractSearch.png" Stretch="Uniform"/>
+            </Button.Background>
+        </Button>
+        <Label Content="ADMINISTRADOR DE CLIENTES" HorizontalAlignment="Left" Margin="482,89,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Candara"/>
+        <Label Content="LISTADO DE CLIENTES" HorizontalAlignment="Left" Margin="505,182,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Candara"/>
+        <Label Content="ADMINISTRADOR DE CONTRATOS" HorizontalAlignment="Left" Margin="472,273,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Candara"/>
+        <Label Content="LISTADO DE CONTRATOS" HorizontalAlignment="Left" Margin="502,366,0,0" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Candara"/>
+
+    </Grid>
+</Window>

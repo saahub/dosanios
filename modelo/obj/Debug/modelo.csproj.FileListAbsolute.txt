@@ -1,0 +1,21 @@
+C:\Users\Isaias\source\repos\OnBreakApp\modelo\bin\Debug\modelo.exe.config
+C:\Users\Isaias\source\repos\OnBreakApp\modelo\bin\Debug\modelo.exe
+C:\Users\Isaias\source\repos\OnBreakApp\modelo\bin\Debug\modelo.pdb
+C:\Users\Isaias\source\repos\OnBreakApp\modelo\obj\Debug\modelo.csprojAssemblyReference.cache
+C:\Users\Isaias\source\repos\OnBreakApp\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\Isaias\source\repos\OnBreakApp\modelo\obj\Debug\modelo.exe
+C:\Users\Isaias\source\repos\OnBreakApp\modelo\obj\Debug\modelo.pdb
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\modelo\bin\Debug\modelo.exe.config
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\modelo\bin\Debug\modelo.exe
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\modelo\bin\Debug\modelo.pdb
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\modelo\obj\Debug\modelo.csprojAssemblyReference.cache
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\modelo\obj\Debug\modelo.exe
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\modelo\obj\Debug\modelo.pdb
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\modelo\bin\Debug\modelo.exe.config
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\modelo\bin\Debug\modelo.exe
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\modelo\bin\Debug\modelo.pdb
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\modelo\obj\Debug\modelo.csprojAssemblyReference.cache
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\modelo\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\modelo\obj\Debug\modelo.exe
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\modelo\obj\Debug\modelo.pdb

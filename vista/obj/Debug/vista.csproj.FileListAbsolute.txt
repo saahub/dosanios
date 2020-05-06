@@ -1,0 +1,87 @@
+C:\Users\Isaias\source\repos\OnBreakApp\vista\bin\Debug\vista.exe.config
+C:\Users\Isaias\source\repos\OnBreakApp\vista\bin\Debug\vista.exe
+C:\Users\Isaias\source\repos\OnBreakApp\vista\bin\Debug\vista.pdb
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\vista.csprojAssemblyReference.cache
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\MainWindow.g.cs
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\App.g.cs
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\vista_MarkupCompile.cache
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\vista_MarkupCompile.lref
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\MainWindow.baml
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\vista.g.resources
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\vista.Properties.Resources.resources
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\vista.csproj.GenerateResource.cache
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\vista.csproj.CoreCompileInputs.cache
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\vista.exe
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\vista.pdb
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_clientes.g.cs
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_contratos.g.cs
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\ventanas\v_listado_clientes.g.cs
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\ventanas\v_listado_contratos.g.cs
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_clientes.baml
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_contratos.baml
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\ventanas\v_listado_clientes.baml
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\ventanas\v_listado_contratos.baml
+C:\Users\Isaias\source\repos\OnBreakApp\vista\bin\Debug\modelo.exe
+C:\Users\Isaias\source\repos\OnBreakApp\vista\bin\Debug\modelo.pdb
+C:\Users\Isaias\source\repos\OnBreakApp\vista\bin\Debug\modelo.exe.config
+C:\Users\Isaias\source\repos\OnBreakApp\vista\obj\Debug\vista.csproj.CopyComplete
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\bin\Debug\vista.exe.config
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\bin\Debug\vista.exe
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\bin\Debug\vista.pdb
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\bin\Debug\modelo.exe
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\bin\Debug\modelo.pdb
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\bin\Debug\modelo.exe.config
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\vista.csprojAssemblyReference.cache
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\MainWindow.g.cs
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_clientes.g.cs
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_contratos.g.cs
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_listado_clientes.g.cs
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_listado_contratos.g.cs
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\App.g.cs
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\vista_MarkupCompile.cache
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\vista_MarkupCompile.lref
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\MainWindow.baml
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_clientes.baml
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_contratos.baml
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_listado_clientes.baml
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_listado_contratos.baml
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\vista.g.resources
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\vista.Properties.Resources.resources
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\vista.csproj.GenerateResource.cache
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\vista.csproj.CoreCompileInputs.cache
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\vista.csproj.CopyComplete
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\vista.exe
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\obj\Debug\vista.pdb
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\bin\Debug\Negocio.exe
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\bin\Debug\Negocio.pdb
+C:\Users\Isaias\Desktop\respaldo on break\OnBreakApp\vista\bin\Debug\Negocio.exe.config
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\bin\Debug\vista.exe.config
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\bin\Debug\vista.exe
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\bin\Debug\vista.pdb
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\bin\Debug\modelo.exe
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\bin\Debug\Negocio.exe
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\bin\Debug\modelo.pdb
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\bin\Debug\modelo.exe.config
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\bin\Debug\Negocio.pdb
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\bin\Debug\Negocio.exe.config
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\vista.csprojAssemblyReference.cache
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\MainWindow.g.cs
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_clientes.g.cs
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_contratos.g.cs
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_listado_clientes.g.cs
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_listado_contratos.g.cs
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\App.g.cs
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\vista_MarkupCompile.cache
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\vista_MarkupCompile.lref
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\MainWindow.baml
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_clientes.baml
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_administrador_contratos.baml
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_listado_clientes.baml
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\ventanas\v_listado_contratos.baml
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\vista.g.resources
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\vista.Properties.Resources.resources
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\vista.csproj.GenerateResource.cache
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\vista.csproj.CoreCompileInputs.cache
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\vista.csproj.CopyComplete
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\vista.exe
+C:\Users\Saave\OneDrive\Escritorio\respaldo on break\OnBreakApp\vista\obj\Debug\vista.pdb
